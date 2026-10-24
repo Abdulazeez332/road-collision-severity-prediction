@@ -28,4 +28,4 @@ jupyter notebook project-code.ipynb
 
 Place `dft-road-casualty-statistics-collision-2023.csv` beside the notebook, or update `DATA_PATH` in the notebook to your dataset location. The dataset is not included. Run the cells in order; charts are written to `outputs/charts/`.
 
-The supplied notebook identifies the course as **AI306 – Data Mining**, although the original folder was named **AI361 Project**. Original notebook and report content is preserved. Model training was not rerun as part of repository preparation.
+Course project: **AI306 - Data Mining**. Includes the original notebook and project report. Model training was not rerun as part of repository preparation.
